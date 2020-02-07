@@ -1,3 +1,3 @@
-# Faststylehub
+# Fastreset
 
-Style hub for Fastcampus
+Reset css for Fastcampus

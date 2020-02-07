@@ -1,27 +1,26 @@
 {
-  "name": "@fastcampus/faststylehub",
+  "name": "@fastcampus/fastreset",
   "version": "0.0.1",
   "author": "Jaewon Noh <jwno@fastcampus.co.kr>",
-  "description": "Style hub for Fastcampus",
+  "description": "Reset css for Fastcampus",
   "scripts": {
     "build": "npx webpack-cli --config webpack.config.js"
   },
-  "main": "dist/faststylehub.css",
+  "main": "dist/fastreset.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fastcampusgit/faststylehub.git"
+    "url": "git+https://github.com/fastcampusgit/fastreset.git"
   },
   "keywords": [
-    "faststylehub",
-    "fastcampus",
+    "fastreset",
     "fastcss",
     "fastscss",
-    "fastreset"
+    "fastcampus"
   ],
   "bugs": {
-    "url": "https://github.com/fastcampusgit/faststylehub/issues"
+    "url": "https://github.com/fastcampusgit/fastreset/issues"
   },
-  "homepage": "https://github.com/fastcampusgit/faststylehub#readme",
+  "homepage": "https://github.com/fastcampusgit/fastreset#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
