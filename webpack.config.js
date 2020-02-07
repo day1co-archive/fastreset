@@ -43,7 +43,7 @@ module.exports = {
     plugins: [
         new CleanWebpackPlugin(),
         new MiniCssExtractPlugin({
-            filename: 'fastcss.css',
+            filename: 'faststylehub.css',
         }),
     ],
 };

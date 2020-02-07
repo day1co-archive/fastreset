@@ -1,3 +1,3 @@
-# fastcss
+# Faststylehub
 
-Common css collection for Fastcampus
+Style hub for Fastcampus
