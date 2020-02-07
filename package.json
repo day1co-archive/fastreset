@@ -1,6 +1,6 @@
 {
   "name": "@fastcampus/fastreset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jaewon Noh <jwno@fastcampus.co.kr>",
   "description": "Reset css for Fastcampus",
   "scripts": {
