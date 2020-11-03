@@ -9,7 +9,7 @@
   "main": "dist/fastreset.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fastcampusgit/fastreset.git"
+    "url": "git+https://github.com/fastcampus/fastreset.git"
   },
   "keywords": [
     "fastreset",
@@ -18,9 +18,9 @@
     "fastcampus"
   ],
   "bugs": {
-    "url": "https://github.com/fastcampusgit/fastreset/issues"
+    "url": "https://github.com/fastcampus/fastreset/issues"
   },
-  "homepage": "https://github.com/fastcampusgit/fastreset#readme",
+  "homepage": "https://github.com/fastcampus/fastreset#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
